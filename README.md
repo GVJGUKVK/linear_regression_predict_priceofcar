@@ -1,4 +1,4 @@
-# linear_regression_predict_priceofcar
+# Linear Regression for Predicting the Price of Second Hand Cars
 * Task Understanding
 * Data Preparation
 * Linear Regression Model
